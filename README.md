@@ -1,1 +1,1 @@
-# UCSD-Assignments
+# UCSD-Data Management-Assignments
